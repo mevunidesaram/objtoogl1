@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mevuni/CLionProjects/blender2/main.cpp
+fstream
+-
+math.h
+-
+time.h
+-
+vector
+-
+GL/freeglut.h
+-
+GL/glext.h
+-
+
